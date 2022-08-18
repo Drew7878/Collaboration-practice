@@ -1,3 +1,3 @@
 # Collaboration-practice
-test push and pull with team member
-quick brown
+fox jumped over the quick brown
+
